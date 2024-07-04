@@ -5,7 +5,7 @@ import threading
 
 
 # Инициализация бота
-API_TOKEN = '7155478435:AAFpuiJotd36swgw72ZRDz1Pcl3iFfGBxJc'
+API_TOKEN = '    '
 
 
 # Инициализация бота
