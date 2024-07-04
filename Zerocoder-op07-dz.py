@@ -1,3 +1,4 @@
+# добавлен комментарий в ветку OG02-dz
 import tkinter as tk
 from tkinter import messagebox
 
